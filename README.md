@@ -28,6 +28,8 @@ Under 1MB. Zero performance impact on browser speed. Privacy-first: all processi
 
 Upgrade to the Pro version for **$34.99** and unlock all premium features.
 
+**[Buy on Gumroad](https://cleargum.gumroad.com/l/aurrz)** — Instant download, lifetime updates
+
 **[Buy Now (Stripe)](https://buy.stripe.com/8x29AT8v5bUEcVW33mcZf2Z)** — Secure checkout
 
 ## Installation
@@ -39,6 +41,7 @@ Upgrade to the Pro version for **$34.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://cleargum.gumroad.com/l/aurrz)
 
 ## License
 
